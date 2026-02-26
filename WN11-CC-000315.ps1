@@ -4,7 +4,7 @@
 
 .NOTES
     Author          : Adrian Bolt
-    LinkedIn        : linkedin.com/in//adrianbolt/
+    LinkedIn        : linkedin.com/in/adrianbolt/
     GitHub          : github.com/Adrian-bolt
     Date Created    : 2026-02-26
     Last Modified   : 2026-02-26
