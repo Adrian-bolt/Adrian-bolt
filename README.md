@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/Adrianbolt/">Adrian Bolt</a>'s Cybersecurity Project Portfolio 🛡️
 
-I’m passionate about cybersecurity, building hands-on projects in vulnerability management and threat detection using Tenable and Microsoft Azure SIEM.
+I like threat hunting.
 
 
 ## 🔎 Vulnerability Management Projects
