@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/Adrianbolt/">Adrian Bolt</a>'s Cybersecurity Project Portfolio 🛡️
 
-I like threat hunting.
+   Threat hunting is fun.
 
 
 ## 🔎 Vulnerability Management Projects
